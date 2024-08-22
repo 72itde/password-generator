@@ -1,3 +1,4 @@
 # secure password-genereator
 
-Copied and customized from <https://github.com/calebj0seph/password-generator>
+Copied from <https://github.com/calebj0seph/password-generator> and customized.
+HTML, JS and CSS only.
